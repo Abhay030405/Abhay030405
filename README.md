@@ -9,10 +9,10 @@
   <h3>Curious, analytical, and driven by numbers — I'm on a mission to blend technology, mathematics, and finance. As an aspiring Quantitative Engineer, I love solving real-world problems through data, algorithms, and intelligent systems. Currently building strong foundations in Machine Learning, Data Science, Finance, and High-Frequency Trading. Let's model the markets and code the future together!</h3>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhay030405&label=Profile%20views&color=0e75b6&style=flat-square" alt="Abhay030405 Profile Views" /> </p>
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush-jadaun/ayush-jadaun/main/dist/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ayush-jadaun/ayush-jadaun/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay030405/Abhay030405/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Abhay030405/Abhay030405/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</picture>
 
 ## 💫 About Me
 <img align="right" height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF"/>
