@@ -43,8 +43,6 @@
   -   🏆 **Second Runner-up**, DEVJAM under Weekend of code, MNNIT Allahabad 2025
 </details>
 
----
-
 ## 🚀 Core Skills & Focus Areas
 
 <div align="center">
@@ -54,7 +52,17 @@
   <img src="https://skillicons.dev/icons?i=docker,sklearn,tensorflow,pytorch,html,css,javascript" alt="Data & ML Stack" />
 </div>
 
----
+## 📈 Activity Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay030405&theme=tokyo-night&hide_border=true&area=true" alt="Ayush's Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Math & Algorithms Coding" width="400"/>
+</div>
+
+
+
 
 ## 📊 Current Learning & Interests
 
@@ -65,8 +73,6 @@
 ✔ Probability, Statistics & Mathematics for Quants  
 ✔ Financial Data Analysis & Backtesting Tools  
 
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -76,5 +82,40 @@
 
 </div>
 
----
+## 👨‍💻 Get In Touch & Let's Connect
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Let's Connect" width="300"/>
+</div>
+
+<p align="center">
+I'm always open to connecting with Quant, AI/ML, and Finance enthusiasts.<br/>
+Let's discuss Trading Systems, Market Modeling, Data Science, or just brainstorm cool ideas!
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/abhay-agarwal-8563352b1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/a.bb.hayy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Follow on Instagram" height="30" width="40" /></a>
+<a href="https://leetcode.com/absolutabhay" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://leetcode.com/absolutabhay" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Profile" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/abhayondata" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+📧 Or email me directly at: <strong>officialabhay030405@gmail.com</strong>
+</p>
+
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote"/>
+</div>
+
+
+## ⚡ Fun Fact  
+Markets run on algorithms. I want to be the one designing them.
+<div align="center">
+  <img src="https://img.shields.io/badge/Surviving%20on-Probability%20%26%20Coffee-yellow" alt="Probability & Coffee" height="25"/>
+  <img src="https://img.shields.io/badge/Obsessed%20with-Data%20%26%20Markets-red" alt="Data & Markets" height="25"/>
+</div>
+
 
