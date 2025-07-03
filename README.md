@@ -97,7 +97,7 @@ Let's discuss Trading Systems, Market Modeling, Data Science, or just brainstorm
 <a href="https://www.linkedin.com/in/abhay-agarwal-8563352b1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/a.bb.hayy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Follow on Instagram" height="30" width="40" /></a>
 <a href="https://leetcode.com/absolutabhay" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://leetcode.com/absolutabhay" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Profile" height="30" width="40" /></a>
+<a href="https://codeforces.com/absolutabhay" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Profile" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/abhayondata" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="30" width="40" /></a>
 </p>
 
