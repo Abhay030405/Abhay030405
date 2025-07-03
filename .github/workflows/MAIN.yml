@@ -4,7 +4,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"  # Optional: auto-run daily
-
+    
+permissions:
+  contents: write  # REQUIRED for pushing files back to the repo
+  
 jobs:
   generate:
     runs-on: ubuntu-latest
