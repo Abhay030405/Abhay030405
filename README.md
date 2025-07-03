@@ -10,7 +10,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhay030405&label=Profile%20views&color=0e75b6&style=flat-square" alt="Abhay030405 Profile Views" /> </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay030405/Abhay030405/main/dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay030405/Abhay030405/main/dist/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/Abhay030405/Abhay030405/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </picture>
 
