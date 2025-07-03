@@ -1,4 +1,5 @@
-<div align="center">💡 Abhay Agarwal — Turning Coffee ☕ into Clean Code</div>
+
+# <div align="center">👋  Abhay Agarwal — Turning Coffee ☕ into Clean Code</div>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Quantitative+Engineer;AI+%26+ML+Explorer;Data+Driven+Problem+Solver;Finance+%26+HFT+Enthusiast" alt="Typing SVG" /></a>
 </div>
