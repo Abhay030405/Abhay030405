@@ -55,7 +55,7 @@
 
 ## 📈 Activity Graph
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay030405&theme=tokyo-night&hide_border=true&area=true" alt="Ayush's Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay030405&theme=tokyo-night&hide_border=true&area=true" alt="Abhay's Activity Graph" />
 </div>
 
 <div align="center">
@@ -82,6 +82,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Abhay030405&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_rank=false" alt="GitHub Stats" />
 
 </div>
+
 
 ## 👨‍💻 Get In Touch & Let's Connect
 
