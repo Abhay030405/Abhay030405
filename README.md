@@ -62,7 +62,13 @@
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Math & Algorithms Coding" width="400"/>
 </div>
 
+## 📈 Coding Journey
 
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/absolutabhay?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
+
+</div>
 
 
 ## 📊 Current Learning & Interests
