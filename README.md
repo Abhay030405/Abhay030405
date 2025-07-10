@@ -47,7 +47,7 @@
 ## 🚀 Core Skills & Focus Areas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,git,r" alt="Core Skills" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,git,r,ai" alt="Core Skills" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker,sklearn,tensorflow,pytorch,html,css,javascript" alt="Data & ML Stack" />
