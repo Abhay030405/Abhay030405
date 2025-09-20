@@ -1,9 +1,7 @@
 name: Generate snake animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # every day at 00:00 UTC
-  workflow_dispatch:
+  workflow_dispatch:   # Only runs when you manually trigger it from Actions tab
 
 jobs:
   build:
@@ -19,9 +17,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit & push
-        uses: EndBug/add-and-commit@v9
+      - name: Upload snake.svg as artifact
+        uses: actions/upload-artifact@v3
         with:
-          branch: output
-          message: "Generate snake animation"
-          add: "dist/*.svg"
+          name: snake
+          path: dist/
+
+
