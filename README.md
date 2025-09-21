@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Finance & Market GIF" width="350"/>
 </div>
 <div align="center">
-  <h4>Curious and analytical machine learning enthusiast with hands-on experience in model training, optimization, and algorithm development. Passionate about solving complex problems through logic and mathematics, and always eager to learn from others. Strong Python skills with a focus on collaborative, intellectually rigorous environments where growth and continuous learning are prioritized over prior domain knowledge.</h4>
+  <h3>Curious and analytical ML enthusiast with experience in model training, optimization, and algorithm design. Skilled in Python and driven by logic, math, and problem-solving. Passionate about learning, collaboration, and thriving in intellectually rigorous environments.</h3>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhay030405&label=Profile%20views&color=0e75b6&style=flat-square" alt="Abhay030405 Profile Views" /> </p>
 <picture>
