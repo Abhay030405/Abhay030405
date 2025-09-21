@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Finance & Market GIF" width="350"/>
 </div>
 <div align="center">
-  <h3>Curious, analytical, and driven by numbers — I'm on a mission to blend technology, mathematics, and finance. As an aspiring Quantitative Engineer, I love solving real-world problems through data, algorithms, and intelligent systems. Currently building strong foundations in Machine Learning, Data Science, Finance, and High-Frequency Trading. Let's model the markets and code the future together!</h3>
+  <h4>Curious and analytical machine learning enthusiast with hands-on experience in model training, optimization, and algorithm development. Passionate about solving complex problems through logic and mathematics, and always eager to learn from others. Strong Python skills with a focus on collaborative, intellectually rigorous environments where growth and continuous learning are prioritized over prior domain knowledge.</h4>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhay030405&label=Profile%20views&color=0e75b6&style=flat-square" alt="Abhay030405 Profile Views" /> </p>
 <picture>
@@ -18,15 +18,15 @@
 ## 💫 About Me
 <img align="right" height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF"/>
 
-- 🎯 **Career Goal:** Become a Quantitative Engineer in top HFT or Trading firms.
+- 🎯 **Career Goal:** AI/ML/DL Innovator Crafting Intelligent Systems for Tomorrow 🚀
 - 📈 Currently building:
-  - Data-Driven Trading Strategies & Backtesting Systems.
-  - AI/ML models applied to financial problems.
-  - Strong understanding of Finance, Markets & Quant Research.
+  🧠 Next-Gen AI & ML Models
+  💥 Deep Learning Innovations
+  🔬 Exploring Advanced AI Frontiers.
 - 💻 Practicing:
-  - Advanced DSA & Competitive Programming.
-  - Probability, Statistics, Linear Algebra, and Quantitative Math.
-- 🏆 Focused on cracking Quant and AI/ML Internships.
+  💡 Advanced Algorithms & Problem Solving
+  📊 Mastering Mathematics for AI
+  🏆 Focused on mastering AI/ML technologies and applying them to real-world challenges.
 - 📫 How to reach me: **officialabhay030405@gmail.com**  
 - 🌐 View [My Portfolio](https://abhay030405.github.io/MyPortfolio/)
 
@@ -73,12 +73,12 @@
 
 ## 📊 Current Learning & Interests
 
-✔ Quantitative Finance  
-✔ Algorithmic Trading & Market Microstructure  
-✔ High-Frequency Trading (HFT) Principles  
-✔ Machine Learning for Finance  
-✔ Probability, Statistics & Mathematics for Quants  
-✔ Financial Data Analysis & Backtesting Tools  
+✔ AI/ML for Real-World Applications
+✔ Deep Learning Architectures & Models
+✔ Data Science & Predictive Analytics
+✔ Computer Vision & NLP Techniques
+✔ Mathematics & Statistics for Machine Learning
+✔ Model Evaluation & Performance Optimization
 
 ## 📈 GitHub Stats
 
@@ -97,8 +97,8 @@
 </div>
 
 <p align="center">
-I'm always open to connecting with Quant, AI/ML, and Finance enthusiasts.<br/>
-Let's discuss Trading Systems, Market Modeling, Data Science, or just brainstorm cool ideas!
+🌟 Always eager to connect with AI/ML, Data Science, and Tech enthusiasts!
+Let’s discuss AI-driven systems, Machine Learning models, Data Science techniques, or brainstorm innovative Deep Learning solutions to real-world problems! 🚀
 </p>
 
 <p align="center">
