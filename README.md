@@ -1,7 +1,7 @@
 
 # <div align="center">👋  Abhay Agarwal — Turning Coffee ☕ into Clean Code</div>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Quantitative+Engineer;AI+%26+ML+Explorer;Data+Driven+Problem+Solver;Finance+%26+HFT+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=435&lines=AI+%26+ML+Explorer;Data+Driven+Problem+Solver;" alt="Typing SVG" /></a>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Finance & Market GIF" width="350"/>
@@ -28,11 +28,9 @@
   📊 Mastering Mathematics for AI
   🏆 Focused on mastering AI/ML technologies and applying them to real-world challenges.
 - 📫 How to reach me: **officialabhay030405@gmail.com**  
-- 🌐 View [My Portfolio](https://abhay030405.github.io/MyPortfolio/)
+- 🌐 View [My Portfolio](https://abhay03040.github.io/MyPortfolio/)
 
-## 🏆 Achievements & Certifications
-
-<details>
+<!-- <details>
   <summary>Click to expand</summary>
 
   ### Hackathons & Competitions
@@ -42,7 +40,7 @@
   -   🥇 **Winner**, Robowars, under Botrush 3.0 conducted by  Robotics Club MNNIT ALLAHABAD 2025
   -   🥈 **Runner-up**, Quinthalon - Mock Interview Process conducted by ES Society MNNIT ALLAHABAD 2024
   -   🏆 **Second Runner-up**, DEVJAM under Weekend of code, MNNIT Allahabad 2025
-</details>
+</details> -->
 
 ## 🚀 Core Skills & Focus Areas
 
