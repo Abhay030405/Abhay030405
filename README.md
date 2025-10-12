@@ -9,11 +9,11 @@
 <div align="center">
   <h3>Curious and analytical ML enthusiast with experience in model training, optimization, and algorithm design. Skilled in Python and driven by logic, math, and problem-solving. Passionate about learning, collaboration, and thriving in intellectually rigorous environments.</h3>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhay030405&label=Profile%20views&color=0e75b6&style=flat-square" alt="Abhay030405 Profile Views" /> </p>
-<picture>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhay030405&label=Profile%20views&color=0e75b6&style=flat-square" alt="Abhay030405 Profile Views" /> </p> -->
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay030405/Abhay030405/main/dist/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/Abhay030405/Abhay030405/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</picture>
+</picture> -->
 
 ## 💫 About Me
 <img align="right" height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF"/>
