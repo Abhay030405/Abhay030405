@@ -28,7 +28,6 @@
   📊 Mastering Mathematics for AI
   🏆 Focused on mastering AI/ML technologies and applying them to real-world challenges.
 - 📫 How to reach me: **officialabhay030405@gmail.com**  
-- 🌐 View [My Portfolio](https://abhay03040.github.io/MyPortfolio/)
 
 <!-- <details>
   <summary>Click to expand</summary>
@@ -59,15 +58,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Math & Algorithms Coding" width="400"/>
 </div>
-
-## 📈 Coding Journey
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/absolutabhay?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
-
-</div>
-
 
 ## 📊 Current Learning & Interests
 
