@@ -28,7 +28,8 @@
   📊 Mastering Mathematics for AI
   🏆 Focused on mastering AI/ML technologies and applying them to real-world challenges.
 - Email: **officialabhay030405@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/abhay-agarwal-8563352b1**  
+- LinkedIn: **https://www.linkedin.com/in/abhay-agarwal-8563352b1**
+- Portfolio: **https://abhay-porfolio-20245003.vercel.app/**
 
 ## 🏆 My Achivements
   -   🥇 **Competitive Programming**, Ranked as ”Pupil” on Codeforces with a peak rating of 1232
