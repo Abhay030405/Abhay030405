@@ -27,19 +27,18 @@
   💡 Advanced Algorithms & Problem Solving
   📊 Mastering Mathematics for AI
   🏆 Focused on mastering AI/ML technologies and applying them to real-world challenges.
-- 📫 How to reach me: **officialabhay030405@gmail.com**  
+- Email: **officialabhay030405@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/abhay-agarwal-8563352b1**  
 
-<!-- <details>
-  <summary>Click to expand</summary>
+## 🏆 My Achivements
+  -   🥇 **Competitive Programming**, Ranked as ”Pupil” on Codeforces with a peak rating of 1232
+  -   🥇 **First Runner-up**, HACKATRON, technical fest (Infotsav) held at IIITM Gwalior.
+  -   🥇 **Special Mention**, Dev or Die (Power Surge 2025), development event under Avishkar 2025
+  -   🥇 **Winner**, Logical Rhythms (Codesangam 2025), Machine Learning event by CC Club, MNNIT.
+  -   🥇 **Winner**, Robo-Wars (BotRush Robotics Club 2025), 1v1 robot combat by Robotics Club, MNNIT.
+  -   🥇 **First Runner-up**, Predefined Hardware (Power Surge 2025), hardware event under Avishkar 2025
+  -   🥇 **Second Runner-up**, Doodle Bot (Robomania 2024), autonomous bot competition under Avishkar 2024
 
-  ### Hackathons & Competitions
-  -   🥇 **Winner**, AIML Hackathon under Culrav/Avishkar at MNNIT Allahabad 2024
-  -   🥇 **Winner**, Hactivate, under Botrush 3.0 conducted by  Robotics Club MNNIT ALLAHABAD 2025
-  -   🥇 **Winner**, Galactic Heist, under Botrush 3.0 conducted by  Astronomy Club MNNIT ALLAHABAD 2025
-  -   🥇 **Winner**, Robowars, under Botrush 3.0 conducted by  Robotics Club MNNIT ALLAHABAD 2025
-  -   🥈 **Runner-up**, Quinthalon - Mock Interview Process conducted by ES Society MNNIT ALLAHABAD 2024
-  -   🏆 **Second Runner-up**, DEVJAM under Weekend of code, MNNIT Allahabad 2025
-</details> -->
 
 ## 🚀 Core Skills & Focus Areas
 
@@ -55,27 +54,15 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay030405&theme=tokyo-night&hide_border=true&area=true" alt="Abhay's Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Math & Algorithms Coding" width="400"/>
-</div>
 
 ## 📊 Current Learning & Interests
+  -   AI/ML for Real-World Applications
+  -   Deep Learning Architectures & Models
+  -   Data Science & Predictive Analytics
+  -   Computer Vision & NLP Techniques
+  -   Mathematics & Statistics for Machine Learning
+  -   Model Evaluation & Performance Optimization
 
-✔ AI/ML for Real-World Applications
-✔ Deep Learning Architectures & Models
-✔ Data Science & Predictive Analytics
-✔ Computer Vision & NLP Techniques
-✔ Mathematics & Statistics for Machine Learning
-✔ Model Evaluation & Performance Optimization
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay030405&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=Abhay030405&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_rank=false" alt="GitHub Stats" />
-
-</div>
 
 
 ## 👨‍💻 Get In Touch & Let's Connect
@@ -104,14 +91,6 @@ Let’s discuss AI-driven systems, Machine Learning models, Data Science techniq
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote"/>
-</div>
-
-
-## ⚡ Fun Fact  
-Markets run on algorithms. I want to be the one designing them.
-<div align="center">
-  <img src="https://img.shields.io/badge/Surviving%20on-Probability%20%26%20Coffee-yellow" alt="Probability & Coffee" height="25"/>
-  <img src="https://img.shields.io/badge/Obsessed%20with-Data%20%26%20Markets-red" alt="Data & Markets" height="25"/>
 </div>
 
 
